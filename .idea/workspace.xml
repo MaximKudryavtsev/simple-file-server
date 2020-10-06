@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="08d49202-f4e0-4d85-8d02-eb798f814679" name="Default Changelist" comment="" />
+    <list default="true" id="08d49202-f4e0-4d85-8d02-eb798f814679" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +22,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1iUT7GDbXRXw3kFGUJxlNvNh7a6" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollFromSource" value="true" />
     <option name="autoscrollToSource" value="true" />
@@ -44,11 +50,49 @@
       <option name="presentableId" value="Default" />
       <updated>1601961001437</updated>
       <workItem from="1601961002493" duration="25000" />
-      <workItem from="1601961084758" duration="637000" />
+      <workItem from="1601961084758" duration="1110000" />
     </task>
+    <task id="LOCAL-00001" summary="Delete node_modules">
+      <created>1601961818351</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601961818351</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Delete node_modules" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete node_modules" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="572" y="115" width="766" height="883" key="CommitChangelistDialog2" timestamp="1601961817778">
+      <screen x="0" y="30" width="3840" height="1050" />
+    </state>
+    <state x="572" y="115" width="766" height="883" key="CommitChangelistDialog2/0.30.3840.1050@0.30.3840.1050" timestamp="1601961817778" />
+    <state width="1897" height="276" key="GridCell.Tab.0.bottom" timestamp="1601962039175">
+      <screen x="0" y="30" width="3840" height="1050" />
+    </state>
+    <state width="1897" height="276" key="GridCell.Tab.0.bottom/0.30.3840.1050@0.30.3840.1050" timestamp="1601962039175" />
+    <state width="1897" height="276" key="GridCell.Tab.0.center" timestamp="1601962039174">
+      <screen x="0" y="30" width="3840" height="1050" />
+    </state>
+    <state width="1897" height="276" key="GridCell.Tab.0.center/0.30.3840.1050@0.30.3840.1050" timestamp="1601962039174" />
+    <state width="1897" height="276" key="GridCell.Tab.0.left" timestamp="1601962039173">
+      <screen x="0" y="30" width="3840" height="1050" />
+    </state>
+    <state width="1897" height="276" key="GridCell.Tab.0.left/0.30.3840.1050@0.30.3840.1050" timestamp="1601962039173" />
+    <state width="1897" height="276" key="GridCell.Tab.0.right" timestamp="1601962039174">
+      <screen x="0" y="30" width="3840" height="1050" />
+    </state>
+    <state width="1897" height="276" key="GridCell.Tab.0.right/0.30.3840.1050@0.30.3840.1050" timestamp="1601962039174" />
+    <state x="555" y="291" width="800" height="531" key="Vcs.Push.Dialog.v2" timestamp="1601961820274">
+      <screen x="0" y="30" width="3840" height="1050" />
+    </state>
+    <state x="555" y="291" width="800" height="531" key="Vcs.Push.Dialog.v2/0.30.3840.1050@0.30.3840.1050" timestamp="1601961820274" />
   </component>
 </project>
